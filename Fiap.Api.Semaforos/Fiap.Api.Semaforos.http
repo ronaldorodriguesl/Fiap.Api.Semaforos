@@ -1,0 +1,6 @@
+@Fiap.Api.Semaforos_HostAddress = http://localhost:5122
+
+GET {{Fiap.Api.Semaforos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
